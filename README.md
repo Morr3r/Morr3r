@@ -25,7 +25,7 @@ const afghany = {
 };
 ```
 
-I enjoy taking a product from an early idea to a working experience—designing the interface, shaping the architecture, and connecting everything to a reliable backend. My recent work spans **point-of-sale systems, gesture-based learning, streaming communities, and interactive web experiences**.
+I enjoy taking a product from an early idea to a working experience designing the interface, shaping the architecture, and connecting everything to a reliable backend. My recent work spans **point-of-sale systems, gesture-based learning, streaming communities, and interactive web experiences**.
 
 ## Featured Work
 
