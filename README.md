@@ -90,7 +90,7 @@ My digital home for selected projects, experiments, and product stories.
 
 **Frontend & Mobile**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,expo&theme=dark" alt="React, Next.js, Tailwind CSS and Expo" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,expo,flutter,dart&theme=dark" alt="React, Next.js, Tailwind CSS, Expo, Flutter and Dart" />
 
 **Backend, Data & Tools**
 
