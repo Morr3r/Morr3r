@@ -101,8 +101,8 @@ My digital home for selected projects, experiments, and product stories.
 ## 📊 GitHub Pulse
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Morr3r&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" alt="Afghany's GitHub stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morr3r&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&langs_count=8" alt="Afghany's most used languages" />
+  <img height="175" src="https://ghstats.dev/api/card?username=Morr3r&amp;size=compact&amp;compact_count=6&amp;hide_border=true&amp;bg=0D1117&amp;text=C9D1D9&amp;title_color=22D3EE&amp;icon_color=8B5CF6" alt="Afghany's GitHub stats" />
+  <img height="175" src="https://ghstats.dev/api/langs?username=Morr3r&amp;layout=compact&amp;max_langs=8&amp;hide_border=true&amp;bg=0D1117&amp;text=C9D1D9&amp;title_color=22D3EE&amp;icon_color=8B5CF6" alt="Afghany's most used languages" />
 </div>
 
 <div align="center">
