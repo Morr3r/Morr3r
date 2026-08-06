@@ -94,7 +94,7 @@ My digital home for selected projects, experiments, and product stories.
 
 **Backend, Data & Tools**
 
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,supabase,git,github,vercel,vscode&theme=dark" alt="FastAPI, Node.js, PostgreSQL, Supabase, Git, GitHub, Vercel and VS Code" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,nodejs,postgresql,supabase,git,github,vercel,vscode,chatgpt,claude&theme=dark" alt="FastAPI, Node.js, PostgreSQL, Supabase, Git, GitHub, Vercel, VS Code, Codex and Claude" />
 
 </div>
 
